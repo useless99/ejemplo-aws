@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "",
+  "author": "Mario Armas",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"

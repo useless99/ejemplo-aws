@@ -4,7 +4,7 @@ const app = express()
 
 app.get('/',  function(req, res) {
 
-    res.send('Hola Mundo')
+    res.send('Bienvenidos al curso de seminario de sistemas 2022')
 })
 
 app.listen(3000)
